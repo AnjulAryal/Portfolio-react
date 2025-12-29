@@ -16,8 +16,8 @@ const Skills = () => {
         },
         {
             name: "SEO & Analytics",
-            tools: ["Google Analytics", "Google Search Console", "Yoast SEO",  "SEMrush"],
-            
+            tools: ["Google Analytics", "Google Search Console", "Yoast SEO", "SEMrush"],
+
         },
         {
             name: "Version Control",
@@ -26,6 +26,10 @@ const Skills = () => {
         {
             name: "Design Tools",
             tools: ["Figma", "Adobe XD", "Canva", "Photoshop"],
+        },
+        {
+            name: "Other Skills",
+            tools: ["Responsive Design", "Cross-Browser Compatibility", "Performance Optimization", "Web Accessibility"],
         }
     ]
     return (
