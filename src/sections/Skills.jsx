@@ -26,6 +26,10 @@ const Skills = () => {
         {
             name: "Design Tools",
             tools: ["Figma", "Adobe XD", "Canva", "Photoshop"],
+        },
+        {
+            name: "Content Management Systems",
+            tools: ["WordPress", "Joomla", "Drupal", "Shopify"],
         }
     ]
     return (
